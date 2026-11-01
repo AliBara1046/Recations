@@ -1,5 +1,6 @@
 # Recations
-Simon Says esque competition game
+Simon Says esque competition game.
+
 I misspelled "Reactions" But its fine nobodys perfect and im lazy so im not changing it.
 
 The project started as a complete mystery to me. I went into this week expecting some sort of guide, similarly to week 3. I really thought week 3's tutorial great since it did give instructions but I still didn't follow it fully. I made my own design, and I was going into this project with a similar mindset.
