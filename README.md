@@ -12,6 +12,7 @@ The PCB actually wasn't too bad though. What took me 4 hours last week only took
 However, real hell started when Onshape was opened. I know  I can't just use the basic push switch, that doesn't look like Simon Says at all!
 So then, I opened it up. I made the base pretty easily, which was great. However, i don't know how to make a button at all. I sat for 30 minutes messing around with circles, before I finished. I got an exactly right measurement and decided I should do something with springs to make the button work, narrowing my margin of error to extremely low levels, about 0.2mm, which is INSANE for someone who just sucks at CAD. Then, after I got that down perfectly, I realized I made the little button segments on the wrong side. THIS was the real hell. I spent another 15 minutes just trying to fix this, until I realized that I could just rotate it.
 
+An hour later, I gave up on the button.
 
 Schematic v
 <img width="1023" height="552" alt="reactionsch" src="https://github.com/user-attachments/assets/773701f1-0a5c-4613-a9ca-21960ef1ceb3" />
